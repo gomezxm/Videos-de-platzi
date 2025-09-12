@@ -1,0 +1,15 @@
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\bin\Debug\net8.0\ComparacionNumerica.exe
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\bin\Debug\net8.0\ComparacionNumerica.deps.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\bin\Debug\net8.0\ComparacionNumerica.runtimeconfig.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\bin\Debug\net8.0\ComparacionNumerica.dll
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\bin\Debug\net8.0\ComparacionNumerica.pdb
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\obj\Debug\net8.0\ComparacionNumerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\obj\Debug\net8.0\ComparacionNumerica.AssemblyInfoInputs.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\obj\Debug\net8.0\ComparacionNumerica.AssemblyInfo.cs
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\obj\Debug\net8.0\ComparacionNumerica.csproj.CoreCompileInputs.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\obj\Debug\net8.0\ComparacionNumerica.sourcelink.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\obj\Debug\net8.0\ComparacionNumerica.dll
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\obj\Debug\net8.0\refint\ComparacionNumerica.dll
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\obj\Debug\net8.0\ComparacionNumerica.pdb
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\obj\Debug\net8.0\ComparacionNumerica.genruntimeconfig.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ComparacionNumerica\ComparacionNumerica\obj\Debug\net8.0\ref\ComparacionNumerica.dll
