@@ -1,0 +1,15 @@
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\bin\Debug\net8.0\ManipulacionString.exe
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\bin\Debug\net8.0\ManipulacionString.deps.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\bin\Debug\net8.0\ManipulacionString.runtimeconfig.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\bin\Debug\net8.0\ManipulacionString.dll
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\bin\Debug\net8.0\ManipulacionString.pdb
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\obj\Debug\net8.0\ManipulacionString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\obj\Debug\net8.0\ManipulacionString.AssemblyInfoInputs.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\obj\Debug\net8.0\ManipulacionString.AssemblyInfo.cs
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\obj\Debug\net8.0\ManipulacionString.csproj.CoreCompileInputs.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\obj\Debug\net8.0\ManipulacionString.sourcelink.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\obj\Debug\net8.0\ManipulacionString.dll
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\obj\Debug\net8.0\refint\ManipulacionString.dll
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\obj\Debug\net8.0\ManipulacionString.pdb
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\obj\Debug\net8.0\ManipulacionString.genruntimeconfig.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 11-13\ManipulacionString\ManipulacionString\obj\Debug\net8.0\ref\ManipulacionString.dll

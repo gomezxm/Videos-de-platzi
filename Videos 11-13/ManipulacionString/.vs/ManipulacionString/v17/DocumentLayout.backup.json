@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\Videos de Platzi\\Videos-de-platzi\\Videos 11-13\\ManipulacionString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7871404E-1E11-4C94-9622-0FDFDDFEB487}|ManipulacionString\\ManipulacionString.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\videos de platzi\\videos-de-platzi\\videos 11-13\\manipulacionstring\\manipulacionstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7871404E-1E11-4C94-9622-0FDFDDFEB487}|ManipulacionString\\ManipulacionString.csproj|solutionrelative:manipulacionstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\Videos de Platzi\\Videos-de-platzi\\Videos 11-13\\ManipulacionString\\ManipulacionString\\Program.cs",
+              "RelativeDocumentMoniker": "ManipulacionString\\Program.cs",
+              "ToolTip": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\Videos de Platzi\\Videos-de-platzi\\Videos 11-13\\ManipulacionString\\ManipulacionString\\Program.cs*",
+              "RelativeToolTip": "ManipulacionString\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:47:06.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
