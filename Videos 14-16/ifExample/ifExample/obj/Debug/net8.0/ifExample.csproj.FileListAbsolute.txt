@@ -1,0 +1,15 @@
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\bin\Debug\net8.0\ifExample.exe
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\bin\Debug\net8.0\ifExample.deps.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\bin\Debug\net8.0\ifExample.runtimeconfig.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\bin\Debug\net8.0\ifExample.dll
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\bin\Debug\net8.0\ifExample.pdb
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\obj\Debug\net8.0\ifExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\obj\Debug\net8.0\ifExample.AssemblyInfoInputs.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\obj\Debug\net8.0\ifExample.AssemblyInfo.cs
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\obj\Debug\net8.0\ifExample.csproj.CoreCompileInputs.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\obj\Debug\net8.0\ifExample.sourcelink.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\obj\Debug\net8.0\ifExample.dll
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\obj\Debug\net8.0\refint\ifExample.dll
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\obj\Debug\net8.0\ifExample.pdb
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\obj\Debug\net8.0\ifExample.genruntimeconfig.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\Videos 14-16\ifExample\ifExample\obj\Debug\net8.0\ref\ifExample.dll
