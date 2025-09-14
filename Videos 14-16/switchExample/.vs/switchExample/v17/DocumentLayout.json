@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\Videos de Platzi\\Videos-de-platzi\\Videos 14-16\\switchExample\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF2F3B8-DE23-48AF-A4ED-F6F53777DC78}|switchExample\\switchExample.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\videos de platzi\\videos-de-platzi\\videos 14-16\\switchexample\\switchexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF2F3B8-DE23-48AF-A4ED-F6F53777DC78}|switchExample\\switchExample.csproj|solutionrelative:switchexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\Videos de Platzi\\Videos-de-platzi\\Videos 14-16\\switchExample\\switchExample\\Program.cs",
+              "RelativeDocumentMoniker": "switchExample\\Program.cs",
+              "ToolTip": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\Videos de Platzi\\Videos-de-platzi\\Videos 14-16\\switchExample\\switchExample\\Program.cs",
+              "RelativeToolTip": "switchExample\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T03:23:43.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
