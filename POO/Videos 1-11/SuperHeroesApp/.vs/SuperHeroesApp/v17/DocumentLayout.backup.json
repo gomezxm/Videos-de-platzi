@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\Videos de Platzi\\Videos-de-platzi\\POO\\Videos 1-11\\SuperHeroesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70D0C20B-92E8-407F-9453-12E451D3DE18}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\videos de platzi\\videos-de-platzi\\poo\\videos 1-11\\superheroesapp\\superheroesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D0C20B-92E8-407F-9453-12E451D3DE18}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\Videos de Platzi\\Videos-de-platzi\\POO\\Videos 1-11\\SuperHeroesApp\\SuperHeroesApp\\Program.cs",
+              "RelativeDocumentMoniker": "SuperHeroesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\Videos de Platzi\\Videos-de-platzi\\POO\\Videos 1-11\\SuperHeroesApp\\SuperHeroesApp\\Program.cs*",
+              "RelativeToolTip": "SuperHeroesApp\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:05:24.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
