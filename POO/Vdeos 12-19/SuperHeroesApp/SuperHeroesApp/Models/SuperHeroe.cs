@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SuperHeroesApp.Models
 {
-    class SuperHeroe : Heroe
+    class SuperHeroe : Heroe, in
     {
         private string _nombre;
         public int Id;
@@ -58,5 +58,9 @@ namespace SuperHeroesApp.Models
             return $"{nombreIdentidadSecreta} ha salvado el mundo";
         }
 
+        public override string salvarTierra()
+        {
+            return $"{nombreIdentidadSecreta} ha salvado la tierra";
+        }
     }
 }

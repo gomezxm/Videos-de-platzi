@@ -9,9 +9,10 @@ namespace SuperHeroesApp.Models
     internal abstract class Heroe
     {
         public abstract string nombre { get; set; }
+
         public abstract string SalvarElMundo();
 
-        public string salvarTierra()
+        public virtual string salvarTierra()
         {
             return $"{nombre} ha salvado la tierra";
         }

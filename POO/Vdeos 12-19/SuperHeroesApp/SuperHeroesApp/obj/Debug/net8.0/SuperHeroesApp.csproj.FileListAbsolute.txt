@@ -21,3 +21,10 @@ C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-d
 C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\POO\Vdeos 12-19\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.dll
 C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\POO\Vdeos 12-19\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\refint\SuperHeroesApp.dll
 C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\POO\Vdeos 12-19\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.pdb
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\POO\Vdeos 12-19\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.exe
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\POO\Vdeos 12-19\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.deps.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\POO\Vdeos 12-19\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.runtimeconfig.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\POO\Vdeos 12-19\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.dll
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\POO\Vdeos 12-19\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.pdb
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\POO\Vdeos 12-19\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.genruntimeconfig.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Videos de Platzi\Videos-de-platzi\POO\Vdeos 12-19\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\ref\SuperHeroesApp.dll
