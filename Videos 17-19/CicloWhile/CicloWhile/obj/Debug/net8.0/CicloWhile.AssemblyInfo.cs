@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CicloWhile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9ca6ca37b7ba5bde56a419bba05e41a36ecd729")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+169fb2c88ff0f6b7f34a54dfe5eeb6b1ebeddd21")]
 [assembly: System.Reflection.AssemblyProductAttribute("CicloWhile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CicloWhile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
