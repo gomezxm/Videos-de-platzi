@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\Videos de Platzi\\Videos-de-platzi\\Videos 17-19\\CicloWhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{498CB80B-A9DA-41FC-B4EE-CC2B8DB9DB5E}|CicloWhile\\CicloWhile.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\videos de platzi\\videos-de-platzi\\videos 17-19\\ciclowhile\\ciclowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498CB80B-A9DA-41FC-B4EE-CC2B8DB9DB5E}|CicloWhile\\CicloWhile.csproj|solutionrelative:ciclowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\Videos de Platzi\\Videos-de-platzi\\Videos 17-19\\CicloWhile\\CicloWhile\\Program.cs",
+              "RelativeDocumentMoniker": "CicloWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\Videos de Platzi\\Videos-de-platzi\\Videos 17-19\\CicloWhile\\CicloWhile\\Program.cs",
+              "RelativeToolTip": "CicloWhile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T18:41:02.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
