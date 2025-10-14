@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SuperHeroesApp.Models
 {
-    class SuperHeroe : Heroe, in
+    class SuperHeroe : Heroe
     {
         private string _nombre;
         public int Id;

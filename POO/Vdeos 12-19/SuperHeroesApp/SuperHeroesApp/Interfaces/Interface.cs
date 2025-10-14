@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SuperHeroesApp.Interfaces
 {
-    internal interface SuperPoder
+    internal interface ISuperPoder
     {
         int Id { get; set; }
 

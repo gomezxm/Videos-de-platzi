@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperHeroesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee27c64064196abace75630b8b5ecc20068cbb6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9ca6ca37b7ba5bde56a419bba05e41a36ecd729")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperHeroesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperHeroesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

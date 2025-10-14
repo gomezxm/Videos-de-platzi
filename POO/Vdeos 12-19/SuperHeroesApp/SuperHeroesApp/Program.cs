@@ -7,11 +7,15 @@ poderVolar.nombre = "volar";
 poderVolar.descripcion = "Capacidad para volar y planear en el aire";
 poderVolar.nivel = NivelPoder.NivelDos;
 
+
 var superFurza = new SuperPoder();
 superFurza.nombre = "Super Fuerza";
 superFurza.nivel = NivelPoder.NivelTres;
 
 var superman = new SuperHeroe();
+
+var algo = new Class1();
+
 
 superman.Id = 1;
 superman.nombre= "superman";
